@@ -10,3 +10,8 @@ forks - download from github to github, clones - download from github to local, 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 so i can keep working while i am offline
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+using another cloud service (dropbox, drive, etc.)
+easier - no need to learn git commands, structure, etc
+harder - would have too many files, difficult to compare
